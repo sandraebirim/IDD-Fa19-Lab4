@@ -49,7 +49,8 @@ To change the speed of the servo motor, the delay in the loop() function must be
 
 I altered the code so that the speed of the servo motor is based on the output of the pentotiometer.
 
-VIDEO
+[Video](https://www.youtube.com/watch?v=2rkcp7yW368&feature=youtu.be)
+
 [Circuit Code](https://github.com/sandraebirim/IDD-Fa19-Lab4/blob/master/PentServo.ino)
 
 
@@ -57,7 +58,14 @@ VIDEO
 
 **a. Make a video of your proto puppet.**
 
+[Video](https://www.youtube.com/watch?v=CTDGOM_rDu0&feature=youtu.be)
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+Ghost moves more in the dark than in the light. 
+
+[Ghost Final Design](https://www.youtube.com/watch?v=b5Ck_G1WbTU&feature=youtu.be)
+
  
